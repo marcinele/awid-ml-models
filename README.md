@@ -17,7 +17,8 @@ If you would like to load this model and test it on your own environment the onl
 
 More detailed information about this model can be found in this paper [2].
 
---
+
 References:
 
 1. C. Kolias, G. Kambourakis, A. Stavrou and S. Gritzalis, "Intrusion Detection in 802.11 Networks: Empirical Evaluation of Threats and a Public Dataset," in IEEE Communications Surveys & Tutorials, vol. 18, no. 1, pp. 184-208, Firstquarter 2016, doi: 10.1109/COMST.2015.2402161.
+2. Natkaniec, M.; Bednarz, M., Wireless Local Area Networks Threat Detection Using CNN. Submitted to Sensors 2023.
